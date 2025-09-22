@@ -1,0 +1,191 @@
+/* =============================
+   Reset básico
+============================= */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* =============================
+   Botões globais
+============================= */
+button {
+  cursor: pointer;
+  border: none;
+  transition: background 0.3s, color 0.3s, transform 0.15s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+/* Botão Dark/Light */
+.btn-theme {
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* =============================
+   Botão "Candidatar-se" & "Ver Detalhes"
+============================= */
+.apply-btn {
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.15s ease;
+}
+
+.apply-btn:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.details-btn {
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.15s ease;
+}
+
+.details-btn:hover {
+  background-color: #3c9e40;
+  transform: scale(1.05);
+}
+
+/* =============================
+   Cards de vagas - Zoom suave
+============================= */
+.job-card {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid #444;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  transform-origin: center;
+  will-change: transform;
+  position: relative;
+}
+
+.job-card.dark {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  border-color: #444;
+}
+
+.job-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
+}
+
+/* Botão de favorito no card */
+.job-card button.fav-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  font-size: 20px;
+  transition: transform 0.2s ease;
+}
+
+.job-card button.fav-btn.active {
+  color: #ff6b6b;
+}
+
+.job-card button.fav-btn:not(.active) {
+  color: #ccc;
+}
+
+.job-card button.fav-btn:hover {
+  transform: scale(1.25) rotate(6deg);
+}
+
+/* Tags (Badges) */
+.badges {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.badges span {
+  padding: 3px 8px;
+  border-radius: 12px;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* Categorias */
+.badge-clt { background-color: #4CAF50; }
+.badge-estagio { background-color: #2196F3; }
+.badge-aprendiz { background-color: #FF9800; }
+.badge-pj { background-color: #9C27B0; }
+
+/* Outros */
+.badge-nivel { background-color: #9C27B0; }
+.badge-regime { background-color: #FF5722; }
+
+/* =============================
+   Favoritos
+============================= */
+.fav-card {
+  border: 1px solid #ffcdd2;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #fff5f5;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.fav-card.dark {
+  border-color: #884444;
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+
+.fav-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+}
+
+.fav-card button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  font-size: 20px;
+  color: #ff6b6b;
+}
+
+/* =============================
+   Animações
+============================= */
+.fade-in-short {
+  animation: fadeIn 0.6s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in-long {
+  animation: fadeOpacity 1.6s ease-in-out forwards;
+  opacity: 0;
+}
+
+@keyframes fadeOpacity {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,84 @@
+Titulo;Categoria;Empresa;Habilidades;Link;Local;Salario;Nivel;Regime
+Desenvolvedor Back-End Python;CLT;CodeBridge;Python, Django, PostgreSQL;https://codebridge.jobs/backend;São Paulo, SP;R$ 6.500;Pleno;Híbrido
+Enfermeiro Plantonista;CLT;Hospital Vida;Enfermagem, Rotinas Hospitalares, Atendimento;https://hospitalvida.jobs/enfermeiro;Fortaleza, CE;R$ 3.800;Pleno;Presencial
+Analista de Marketing Digital;CLT;AgroMarket;Google Ads, SEO, Social Media;https://agromarket.jobs/marketing;Curitiba, PR;R$ 5.000;Pleno;Remoto
+Gerente de Loja;CLT;MegaStore;Gestão de Equipe, Vendas, Estoque;https://megastore.jobs/gerente;Rio de Janeiro, RJ;R$ 6.800;Pleno;Presencial
+Professor de Matemática;CLT;Colégio SaberMais;Didática, Matemática, Aulas Online;https://sabermais.jobs/matematica;São Paulo, SP;R$ 4.200;Pleno;Presencial
+Designer UX/UI;CLT;DesignLab;Figma, User Research, Prototipagem;https://designlab.jobs/ux;Belo Horizonte, MG;R$ 6.000;Pleno;Híbrido
+
+Estagiário de Dados;Estágio;InfoLab;Python, SQL, Estatística;https://infolab.jobs/estagio-dados;São Paulo, SP;Bolsa R$ 1.300;Júnior;Remoto
+Estagiário de Nutrição;Estágio;Clínica BemViver;Atendimento, Planos Alimentares, Laudos;https://bemviver.jobs/nutricao;Recife, PE;Bolsa R$ 1.000;Júnior;Presencial
+Estagiário em Engenharia Civil;Estágio;Construtora Alfa;AutoCAD, Excel, Apoio em Obras;https://construtoraalfa.jobs/civil;Belo Horizonte, MG;Bolsa R$ 1.400;Júnior;Presencial
+Estagiário de Comunicação;Estágio;Agência Criativa;Redação, Canva, Redes Sociais;https://agenciacriativa.jobs/comunicacao;Rio de Janeiro, RJ;Bolsa R$ 1.100;Júnior;Híbrido
+Estagiário de RP (Relações Públicas);Estágio;Mídia360;Planejamento, Publicidade, Eventos;https://midia360.jobs/rp-estagio;São Paulo, SP;Bolsa R$ 1.200;Júnior;Remoto
+Estagiário de Suporte em TI;Estágio;TechSupport;Windows, Linux, Atendimento;https://techsupport.jobs/ti-estagio;Fortaleza, CE;Bolsa R$ 1.250;Júnior;Presencial
+
+Jovem Aprendiz Administrativo;Jovem Aprendiz;OfficeTalent;Excel, Organização, Apoio Administrativo;https://officetalent.jobs/aprendiz;Brasília, DF;Bolsa R$ 900;Júnior;Presencial
+Jovem Aprendiz em Suporte TI;Jovem Aprendiz;HelpJunior;Pacote Office, Atendimento ao Usuário;https://helpjunior.jobs/aprendiz-ti;São Paulo, SP;Bolsa R$ 950;Júnior;Presencial
+Jovem Aprendiz em Atendimento;Jovem Aprendiz;CallNow;Comunicação, Atendimento Telefônico;https://callnow.jobs/aprendiz;Fortaleza, CE;Bolsa R$ 850;Júnior;Presencial
+Jovem Aprendiz Vendas;Jovem Aprendiz;MarketMais;Atendimento, Organização, Caixa;https://marketmais.jobs/aprendiz-vendas;Porto Alegre, RS;Bolsa R$ 880;Júnior;Híbrido
+
+Engenheiro de Dados;PJ;DataWave;Hadoop, Spark, Kafka;https://datawave.jobs/engineer;Remoto;R$ 14.000;Sênior;Remoto
+Consultor ERP;PJ;BizSolutions;SAP, Gestão de Processos;https://bizsolutions.jobs/erp;São Paulo, SP;R$ 12.000;Sênior;Remoto
+Especialista em Segurança da Informação;PJ;CyberShield;Pentest, SIEM, Firewalls;https://cybershield.jobs/security;Remoto;R$ 16.000;Sênior;Remoto
+Instrutor Corporativo de Treinamentos;PJ;SkillPro;Capacitação, Apresentações, EAD;https://skillpro.jobs/instrutor;Rio de Janeiro, RJ;R$ 8.500;Pleno;Remoto
+Desenvolvedor Back-End Python;CLT;CodeBridge;Python, Django, PostgreSQL;https://codebridge.jobs/backend;São Paulo, SP;R$ 6.500;Pleno;Híbrido
+Analista de Marketing Digital;CLT;AgroMarket;Google Ads, SEO, Analytics;https://agromarket.jobs/marketing;Curitiba, PR;R$ 5.000;Pleno;Remoto
+Enfermeiro Plantonista;CLT;Hospital Vida;Enfermagem, Curativos, Rotinas Hospitalares;https://hospitalvida.jobs/enfermeiro;Fortaleza, CE;R$ 3.800;Pleno;Presencial
+Gerente de Loja;CLT;MegaStore;Gestão de Pessoas, Vendas, Estoque;https://megastore.jobs/gerente;Rio de Janeiro, RJ;R$ 6.800;Pleno;Presencial
+Professor de Matemática;CLT;Colégio SaberMais;Matemática, Didática, Ensino Online;https://sabermais.jobs/matematica;São Paulo, SP;R$ 4.200;Pleno;Presencial
+Analista de Redes;CLT;NetConnect;Cisco, Firewalls, Linux;https://netconnect.jobs/redes;Brasília, DF;R$ 6.200;Pleno;Presencial
+Nutricionista Clínico;CLT;Clínica BemViver;Dietas, Prescrição Alimentar, Atendimento;https://bemviver.jobs/nutricao;Recife, PE;R$ 4.200;Pleno;Presencial
+Engenheiro Civil;CLT;Construtora Alfa;AutoCAD, Obras, Planejamento;https://construtoraalfa.jobs/civil;Belo Horizonte, MG;R$ 9.000;Sênior;Híbrido
+Psicólogo Organizacional;CLT;RHPleno;Psicologia, Treinamento, Seleção;https://rhpleno.jobs/psicologo;São Paulo, SP;R$ 5.500;Pleno;Híbrido
+Product Owner;CLT;DevVision;Scrum, Backlog, Gestão Produto;https://devvision.jobs/po;Remoto;R$ 9.200;Pleno;Remoto
+Desenvolvedor Mobile Flutter;CLT;AppForge;Flutter, Firebase, React Native;https://appforge.jobs/mobile;Recife, PE;R$ 7.000;Pleno;Híbrido
+Gerente Comercial;CLT;VendaCerta;Gestão Comercial, Estratégia, Negociação;https://vendacerta.jobs/comercial;Rio de Janeiro, RJ;R$ 8.000;Sênior;Presencial
+Scrum Master;CLT;AgileWay;Scrum, Kanban, Liderança Agile;https://agileway.jobs/scrum;Fortaleza, CE;R$ 10.000;Pleno;Híbrido
+Administrador de Banco de Dados;CLT;DBExperts;Oracle, MySQL, PostgreSQL;https://dbexperts.jobs/dba;Curitiba, PR;R$ 7.800;Pleno;Presencial
+Chefe de Cozinha;CLT;Hotel Lux;Culinária, Gestão de Cozinha, Segurança Alimentar;https://hotellux.jobs/chef;Florianópolis, SC;R$ 7.000;Sênior;Presencial
+Professor de Inglês;CLT;Escola Bright;Metodologias de Ensino, Inglês Avançado;https://bright.jobs/ingles;São Paulo, SP;R$ 3.500;Pleno;Híbrido
+Analista de Mídias Sociais;CLT;BuzzGrow;Instagram, Facebook Ads, Analytics;https://buzzgrow.jobs/social;Rio de Janeiro, RJ;R$ 4.800;Pleno;Remoto
+Engenheiro de Software Fullstack;CLT;CodeWorks;Node.js, React, PostgreSQL;https://codeworks.jobs/fullstack;Curitiba, PR;R$ 9.500;Sênior;Remoto
+Designer de Produto;CLT;UXCraft;Figma, Pesquisa com Usuário, Prototipagem;https://uxcraft.jobs/prod-designer;São Paulo, SP;R$ 6.900;Pleno;Híbrido
+Farmacêutico Responsável;CLT;PharmaMais;Dispensação, Controle RDC, Atendimento;https://pharmamais.jobs/farmaceutico;Brasília, DF;R$ 5.800;Pleno;Presencial
+Estagiário em Ciência de Dados;Estágio;DataSeeds;Python, SQL, Estatística;https://dataseeds.jobs/estagio;São Paulo, SP;Bolsa R$ 1.500;Júnior;Remoto
+Estagiário UX/UI;Estágio;DesignUp;Figma, Prototipagem, Adobe XD;https://designup.jobs/estagio;Fortaleza, CE;Bolsa R$ 1.100;Júnior;Híbrido
+Estagiário de TI Suporte;Estágio;TechFuture;Windows, Redes, Atendimento;https://techfuture.jobs/ti-estagio;Curitiba, PR;Bolsa R$ 1.200;Júnior;Presencial
+Estagiário de Engenharia Civil;Estágio;Construtora Beta;AutoCAD, Excel, Apoio Em Obras;https://beta.jobs/civilestagio;Belo Horizonte, MG;Bolsa R$ 1.400;Júnior;Presencial
+Estagiário de Comunicação Social;Estágio;Mídia360;Copywriting, Redes Sociais, SEO;https://midia360.jobs/estagio;Rio de Janeiro, RJ;Bolsa R$ 1.100;Júnior;Híbrido
+Estagiário em Administração;Estágio;OfficeCorp;Excel, Organização, Processos;https://officecorp.jobs/admin-estagio;São Paulo, SP;Bolsa R$ 1.000;Júnior;Presencial
+Estagiário em Nutrição;Estágio;Clínica NutriLife;Nutrição, Atendimento, Planos Alimentares;https://nutrilife.jobs/estagio;Recife, PE;Bolsa R$ 1.000;Júnior;Presencial
+Estagiário Marketing Digital;Estágio;ClickGrow;Google Ads, Redes Sociais, SEO;https://clickgrow.jobs/estagio;Fortaleza, CE;Bolsa R$ 1.200;Júnior;Remoto
+Estagiário em Jornalismo;Estágio;NewsPro;Redação, SEO, Produção Conteúdo;https://newspro.jobs/jornalismo;São Paulo, SP;Bolsa R$ 1.300;Júnior;Remoto
+Estagiário Arquitetura;Estágio;Construtora Ideal;AutoCAD, SketchUp, Maquetes;https://ideal.jobs/arq-estagio;São Paulo, SP;Bolsa R$ 1.200;Júnior;Presencial
+Estagiário QA;Estágio;TestMasters;Testes Manuais, Cypress Básico;https://testmasters.jobs/qa;Curitiba, PR;Bolsa R$ 1.300;Júnior;Híbrido
+Estagiário Mobile;Estágio;AppStart;React Native, Flutter, Firebase;https://appstart.jobs/mobile;Rio de Janeiro, RJ;Bolsa R$ 1.250;Júnior;Presencial
+Estagiário Pedagogia;Estágio;Colégio Futuro;Didática, Auxílio ao Professor;https://cfuturo.jobs/ped-estagio;Belo Horizonte, MG;Bolsa R$ 950;Júnior;Presencial
+Estagiário Infraestrutura;Estágio;SysInfra;Linux, Redes, Suporte;https://sysinfra.jobs/estagio;Curitiba, PR;Bolsa R$ 1.300;Júnior;Presencial
+Estagiário Design Gráfico;Estágio;Criativi.me;Corel, Photoshop, Illustrator;https://criativi.jobs/design-estagio;Recife, PE;Bolsa R$ 1.000;Júnior;Remoto
+Estagiário Medicina;Estágio;Hospital Vida;Auxilio Ambulatorial, Prontuário Eletrônico;https://hvida.jobs/estagio-medicina;Fortaleza, CE;Bolsa R$ 1.600;Júnior;Presencial
+Estagiário Psicologia Organizacional;Estágio;WorkLab;Treinamentos, Entrevistas, Apoio RH;https://worklab.jobs/psi-estagio;São Paulo, SP;Bolsa R$ 1.100;Júnior;Híbrido
+Estagiário de Farmácia;Estágio;PharmaHouse;Controle, Dispensação, Relatórios;https://pharma.jobs/farma-estagio;Curitiba, PR;Bolsa R$ 1.000;Júnior;Presencial
+Estagiário Economia;Estágio;Banco Jovem;Excel, Power BI, Relatórios;https://bancojovem.jobs/economia;Rio de Janeiro, RJ;Bolsa R$ 1.350;Júnior;Remoto
+Estagiário Engenharia Elétrica;Estágio;EletronCorp;AutoCAD, Cálculos Elétricos, Suporte Técnico;https://eletroncorp.jobs/eletrica;São Paulo, SP;Bolsa R$ 1.500;Júnior;Presencial
+Jovem Aprendiz Administrativo;Jovem Aprendiz;OfficeTalent;Word, Excel, Organização;https://officetalent.jobs/aprendiz;Rio de Janeiro, RJ;Bolsa R$ 900;Júnior;Presencial
+Jovem Aprendiz em Atendimento;Jovem Aprendiz;CallNow;Atendimento Telefônico, Comunicação;https://callnow.jobs/aprendiz;Fortaleza, CE;Bolsa R$ 850;Júnior;Presencial
+Jovem Aprendiz Suporte de TI;Jovem Aprendiz;NetJunior;Pacote Office, Windows Básico, Atendimento;https://netjunior.jobs/ti-aprendiz;São Paulo, SP;Bolsa R$ 950;Júnior;Presencial
+Jovem Aprendiz Estoque;Jovem Aprendiz;MegaStore Jr;Controle Estoque, Organização;https://megastore.jobs/estoque-aprendiz;Recife, PE;Bolsa R$ 920;Júnior;Presencial
+Jovem Aprendiz Redes Sociais;Jovem Aprendiz;SocialSpark;Instagram, Canva, Postagens;https://socialspark.jobs/aprendiz;Rio de Janeiro, RJ;Bolsa R$ 950;Júnior;Remoto
+Jovem Aprendiz Informática Básica;Jovem Aprendiz;TechStart;Pacote Office, Suporte Inicial;https://techstart.jobs/aprendiz;Curitiba, PR;Bolsa R$ 900;Júnior;Presencial
+Jovem Aprendiz Logística;Jovem Aprendiz;TransLog Jr;Organização, Conferência, Apoio Expedição;https://translog.jobs/aprendiz;São Paulo, SP;Bolsa R$ 880;Júnior;Presencial
+Jovem Aprendiz Caixa;Jovem Aprendiz;MarketMais;Atendimento Balcão, Caixa, Comunicação;https://marketmais.jobs/ap-caixa;Rio de Janeiro, RJ;Bolsa R$ 850;Júnior;Presencial
+Jovem Aprendiz Administrativo Projetos;Jovem Aprendiz;Plan4U;Excel, Apoio Administrativo;https://plan4u.jobs/aprendiz;Fortaleza, CE;Bolsa R$ 880;Júnior;Presencial
+Jovem Aprendiz Marketing;Jovem Aprendiz;BuzzGrow Jr;Social Media Básico, Organização;https://buzzgrow.jobs/aprendiz;São Paulo, SP;Bolsa R$ 850;Júnior;Híbrido
+Especialista em Segurança da Informação;PJ;CyberShield;Pentest, Firewalls, SIEM;https://cybershield.jobs/sec;Remoto;R$ 15.000;Sênior;Remoto
+Engenheiro de Dados;PJ;DataWave;Spark, Hadoop, Kafka;https://datawave.jobs/engineer;São Paulo, SP;R$ 14.000;Sênior;Remoto
+Consultor ERP (SAP);PJ;BizSolutions;SAP, Gestão Processos, SQL;https://bizsolutions.jobs/erp;São Paulo, SP;R$ 12.500;Pleno;Remoto
+Arquiteto de Software;PJ;SoftMasters;Microserviços, Cloud, APIs;https://softmasters.jobs/arquitetura;Curitiba, PR;R$ 16.000;Sênior;Remoto
+Instrutor Corporativo EAD;PJ;SkillPro;Treinamentos, Didática, Apresentação;https://skillpro.jobs/treinamento;Rio de Janeiro, RJ;R$ 8.500;Pleno;Remoto
+Consultor de Marketing Digital;PJ;Growthly Pro;SEO, Google Ads, Analytics;https://growthly.jobs/consultor;São Paulo, SP;R$ 10.000;Pleno;Remoto
+Médico Telemedicina;PJ;HealthConnect;Clínica Geral, Teleconsulta;https://healthconnect.jobs/medico;Brasília, DF;R$ 13.000;Pleno;Remoto
+Fotógrafo de Eventos;PJ;ClickPro;Fotografia, Edição Imagens;https://clickpro.jobs/eventos;Fortaleza, CE;R$ 3.500;Pleno;Remoto
+Consultor Financeiro;PJ;FinPlan;Finanças Empresariais, Excel Avançado;https://finplan.jobs/consultor;São Paulo, SP;R$ 9.800;Sênior;Remoto
+Especialista em Cloud;PJ;SkyLabs;Azure, AWS, GCP;https://skylabs.jobs/cloud;Remoto;R$ 17.000;Sênior;Remoto
